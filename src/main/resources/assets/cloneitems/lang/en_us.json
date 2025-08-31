@@ -1,0 +1,7 @@
+{
+  "message.cloneitems.success": "item(s) duplicated successfully!",
+  "message.cloneitems.no_item": "You have no item in your main hand.",
+  "message.cloneitems.inventory_full": "Inventory is full. Could not duplicate item.",
+  "message.cloneitems.max_duplication": "You can't clone an item more than 50 times (Avoids lagging your game)!",
+  "message.cloneitems.min_duplication": "Please choose a number greater than 1!"
+}

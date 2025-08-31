@@ -1,0 +1,11 @@
+modLoader = "javafml"
+loaderVersion = "[1,)"
+license = "All rights reserved"
+
+[[mods]]
+modId = "cloneitems"
+version = "1.21.6"
+displayName = "Clone Items"
+authors = "iKarl"
+description = "Duplica el item que tienes en la mano! Para mas informacion visita la pagina https://www.curseforge.com/minecraft/mc-mods/clone-items"
+logoFile = "icon.png"
