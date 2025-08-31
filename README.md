@@ -24,3 +24,5 @@ git clone https://github.com/Northwoord/CloneItemsForge.git
 ```
 
 3. Place the generated .jar file into the mods/ folder of your Minecraft Forge installation.
+
+💻 Developer | Aldo P. Duran
