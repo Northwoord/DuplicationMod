@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Specification-Title: cloneitemsforge
-Specification-Vendor: iKarl
-Specification-Version: 1
-Implementation-Title: cloneitemsforge
-Implementation-Version: 2.3
-Implementation-Vendor: iKarl
-Implementation-Timestamp: 2025-06-29T17:06:30-0600
-

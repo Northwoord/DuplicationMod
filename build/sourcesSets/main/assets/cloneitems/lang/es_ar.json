@@ -1,7 +1,0 @@
-{
-  "message.cloneitems.success": "¡Item duplicado de manera exitosa!",
-  "message.cloneitems.no_item": "No tienes ningún ítem en la mano principal.",
-  "message.cloneitems.inventory_full": "Inventario lleno. No se pudo duplicar el ítem.",
-  "message.cloneitems.max_duplication": "¡No puedes clonar un objeto mas de 50 veces (Evita laguear tu juego)!",
-  "message.cloneitems.min_duplication":"¡Debes elegir un numero mayor a 1!"
-}
